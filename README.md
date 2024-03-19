@@ -1,3 +1,6 @@
+# ad-320-create-counter-component-state-management
+To run this, navigate to the repository directory and put 'npm start' into the terminal. Visit 'localhost:3000' to see the webpage.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
